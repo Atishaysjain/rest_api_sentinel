@@ -1,0 +1,7 @@
+fastapi
+oauthlib
+requests-oauthlib
+requests
+sentinelhub
+python-dotenv
+uvicorn
